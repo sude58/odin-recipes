@@ -24,12 +24,16 @@
 }
 
 .list-group {
-    align-content: center;
+    text-align: center;
 }
 
 .index {
     font-size: xx-large;
     
+}
+
+.image {
+    text-align: center;
 }
 
 .element {
